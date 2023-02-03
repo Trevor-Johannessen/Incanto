@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Lights from './components/Lights.js';
 
@@ -12,7 +11,6 @@ function App() {
               marginLeft:'25vw',
               width:'50vw',
               backgroundColor:'#FCF5E5',
-              height:'130vh',
               display:'grid',
               placeItems:'center',
               justifyContent:'center'
@@ -21,11 +19,11 @@ function App() {
               <div
                 style={{
                   width: '48vw',
-                  height:'125vh',
                   border: '20px solid black',
                   boxSizing: 'border-box',
                   outlineOffset:'-30px',
                   backgroundColor:'transparent',
+                  margin:'3vh 0px 2vh 0px'
                 }}>
                 <h1 align='center' className="menu-title">Incanto</h1>
                 <hr className='solid' style={{width: '20vw'}}/>
@@ -73,7 +71,7 @@ function App() {
                   <span className="menu-item">Poached pear, red wine granita & fennel <b>7</b></span>
                   <span className="menu-item">Chocolate cake, espresso gelato & cherries <b>9</b></span>
                 </div>
-                <span style={{display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center', marginTop: '5vh'}}>2020 Copyright Incanto Restaurant. All rights reserved</span>
+                <span style={{display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center', marginTop: '4.5vh'}}>2020 Copyright Incanto Restaurant. All rights reserved</span>
               </div>
             </div>
           </div>
