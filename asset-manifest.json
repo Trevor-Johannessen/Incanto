@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Incanto/static/css/main.ff3e6164.css",
+    "main.js": "/Incanto/static/js/main.37b37751.js",
+    "static/js/787.53fe3df8.chunk.js": "/Incanto/static/js/787.53fe3df8.chunk.js",
+    "static/media/diningBackground.jpg": "/Incanto/static/media/diningBackground.1192d480f6dcf6f7dcb7.jpg",
+    "index.html": "/Incanto/index.html",
+    "main.ff3e6164.css.map": "/Incanto/static/css/main.ff3e6164.css.map",
+    "main.37b37751.js.map": "/Incanto/static/js/main.37b37751.js.map",
+    "787.53fe3df8.chunk.js.map": "/Incanto/static/js/787.53fe3df8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff3e6164.css",
+    "static/js/main.37b37751.js"
+  ]
+}
